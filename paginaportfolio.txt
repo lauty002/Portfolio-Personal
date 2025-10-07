@@ -1,7 +1,7 @@
 https://lauty002.github.io/Portfolio-Personal/
 
 
-///<!DOCTYPE html> hola3
+<!DOCTYPE html> 
 <html>
 <head>
     <meta charset="UTF-8">

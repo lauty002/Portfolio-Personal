@@ -1,4 +1,4 @@
-<!DOCTYPE html> hola
+<!DOCTYPE html> esta es la pagina ppal
 <html>
 <head>
     <meta charset="UTF-8">
